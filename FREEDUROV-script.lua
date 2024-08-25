@@ -17,3 +17,5 @@ end
 
 -- Подключаем обработчик события нажатия кнопки | Enabling the button click event handler
 button.MouseButton1Click:Connect(onButtonClicked)
+
+-- #FREEDUROV
